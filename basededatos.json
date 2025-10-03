@@ -1,0 +1,122 @@
+[
+  {
+    "ID": 1,
+    "Nombres": "Ana",
+    "Apellidos": "Gómez",
+    "Saldo": 1500.50,
+    "Con_Seguro": "si",
+    "Telefono": "3001234567",
+    "Gmail": "ana.gomez@gmail.com",
+    "Direccion": "Calle 10 # 5-20",
+    "Barrio": "La Flora",
+    "Comuna": 2
+  },
+  {
+    "ID": 2,
+    "Nombres": "Carlos",
+    "Apellidos": "Pérez",
+    "Saldo": 500.00,
+    "Con_Seguro": "no",
+    "Telefono": "3017654321",
+    "Gmail": "carlos.perez@gmail.com",
+    "Direccion": "Carrera 8 # 25-10",
+    "Barrio": "El Centro",
+    "Comuna": 9
+  },
+  {
+    "ID": 3,
+    "Nombres": "Luisa",
+    "Apellidos": "Rodríguez",
+    "Saldo": 8900.75,
+    "Con_Seguro": "si",
+    "Telefono": "3109876543",
+    "Gmail": "luisa.r@gmail.com",
+    "Direccion": "Avenida 3N # 40-50",
+    "Barrio": "Granada",
+    "Comuna": 17
+  },
+  {
+    "ID": 4,
+    "Nombres": "Juan",
+    "Apellidos": "Sánchez",
+    "Saldo": 200.00,
+    "Con_Seguro": "no",
+    "Telefono": "3045551234",
+    "Gmail": "juan.s@gmail.com",
+    "Direccion": "Transversal 12 # 6A-30",
+    "Barrio": "Ciudad Jardín",
+    "Comuna": 22
+  },
+  {
+    "ID": 5,
+    "Nombres": "Marta",
+    "Apellidos": "López",
+    "Saldo": 4500.00,
+    "Con_Seguro": "si",
+    "Telefono": "3051112233",
+    "Gmail": "marta.l@gmail.com",
+    "Direccion": "Calle 44 # 1B-05",
+    "Barrio": "Petecuy",
+    "Comuna": 4
+  },
+  {
+    "ID": 6,
+    "Nombres": "Ricardo",
+    "Apellidos": "Martínez",
+    "Saldo": 1200.30,
+    "Con_Seguro": "si",
+    "Telefono": "3154445566",
+    "Gmail": "ricardo.m@gmail.com",
+    "Direccion": "Carrera 50 # 3-15",
+    "Barrio": "El Lido",
+    "Comuna": 19
+  },
+  {
+    "ID": 7,
+    "Nombres": "Sofía",
+    "Apellidos": "Vargas",
+    "Saldo": 300.99,
+    "Con_Seguro": "no",
+    "Telefono": "3207778899",
+    "Gmail": "sofia.v@gmail.com",
+    "Direccion": "Avenida Sexta # 21N-01",
+    "Barrio": "Santa Mónica",
+    "Comuna": 2
+  },
+  {
+    "ID": 8,
+    "Nombres": "Pablo",
+    "Apellidos": "Torres",
+    "Saldo": 6700.10,
+    "Con_Seguro": "si",
+    "Telefono": "3186667788",
+    "Gmail": "pablo.t@gmail.com",
+    "Direccion": "Calle 9 # 4-80",
+    "Barrio": "San Antonio",
+    "Comuna": 3
+  },
+  {
+    "ID": 9,
+    "Nombres": "Elena",
+    "Apellidos": "Rojas",
+    "Saldo": 90.00,
+    "Con_Seguro": "no",
+    "Telefono": "3113334455",
+    "Gmail": "elena.r@gmail.com",
+    "Direccion": "Diagonal 15 # 23-40",
+    "Barrio": "Republica de Israel",
+    "Comuna": 11
+  },
+  {
+    "ID": 10,
+    "Nombres": "Andrés",
+    "Apellidos": "Díaz",
+    "Saldo": 2500.00,
+    "Con_Seguro": "si",
+    "Telefono": "3002221100",
+    "Gmail": "andres.d@gmail.com",
+    "Direccion": "Calle 70 # 1A-10",
+    "Barrio": "Los Álamos",
+    "Comuna": 6
+  }
+]
